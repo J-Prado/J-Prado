@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
+I'm a Full-Stack Developer.
 
-<!--
-**J-Prado/J-Prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NOW
+✨ Finished HENRY Bootcamp with more than 800 hrs Programming.
+🇵🇹 Searching my first opportunity in tech industry.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BIO
+🏢 I've fininshed a Final Project web Page "ClickCare" deployed in vercel and in railway.
+⚙️ I use daily: .js, .html, .css, .svg, .sql, postgress, react, node js.
+🌱 Learning all about Web Development.
+📫 Reach me: https://www.linkedin.com/in/juan-p-/.
+⚡️ Fun fact: I'm in love with the piano, but I'm still an amateur.
