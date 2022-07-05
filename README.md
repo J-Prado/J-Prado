@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juan Prado</h1>
 <h3 align="center">A passionate Full Stack Developer from Bolivia</h3>
 
+<p align="Left">I finished Henry Bootcamp and along with it I learned a lot about web development. Now I am looking for an opportunity to continue a career in
+this field. I'm looking towards a future as a developer, I will for sure learning more about many other technologies and developing other projects by myself.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-prado&label=Profile%20views&color=0e75b6&style=flat" alt="j-prado" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-p-/" height="30" width="40" /></a>
-<a href="https://fb.com/juan prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan prado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan prado" height="30" width="40" /></a>
+<a href="https://fb.com/juan prado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/juan.pradorojas/" height="30" width="40" /></a>
 <a href="https://instagram.com/@prado_96_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@prado_96_" height="30" width="40" /></a>
 </p>
 
