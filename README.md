@@ -1,7 +1,8 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Juan Prado</h1>
 <h3 align="center">A passionate Full Stack Developer from Bolivia</h3>
 
-<p align="Left">I finished Henry Bootcamp and along with it I learned a lot about web development. Now I am looking for an opportunity to continue a career in
+<p align="Left">I finished Henry Bootcamp and along with it, I learned a lot about web development. Now I am looking for an opportunity to continue a career in
 this field. I'm looking towards a future as a developer, I will for sure learning more about many other technologies and developing other projects by myself.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-prado&label=Profile%20views&color=0e75b6&style=flat" alt="j-prado" /> </p>
