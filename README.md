@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Juan Prado</h1>
 <h3 align="center">A passionate Full Stack Developer from Bolivia</h3>
 
