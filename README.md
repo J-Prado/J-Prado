@@ -3,7 +3,7 @@
 <h1 align="center">Hi!, I'm Juan Prado</h1>
 <h3 align="center">Full Stack Developer from Bolivia</h3>
 
-<p align="justify">I am a petroleum engineer, chemical enginering student and now a passionate web developer. I always have been facinated by this programming world and now thanks to Henry bootcamp I am pursuing this path through tecnology. As part of Henry I developed many technical skills related to web development and the curiosity to continue learning about new technologies. I feel fascinated abput the way that you can turn in real what you are thinking.
+<p align="justify">I am a Technical Consultant with experience working on system configuration, scripting, and software integrations, mainly using PowerShell, SQL, and XML. I have also worked with modern web technologies such as JavaScript, React, Redux, Node.js, Express, and Sequelize through academic and bootcamp projects, including applications like ClickCare and a Pokémon web app. In my role at Harris, I support system implementation tasks such as requirement analysis, documentation, configuration, and client testing. I also have previous experience as a Full Stack Teaching Assistant and AI Data Trainer. My academic background in engineering has helped me build analytical thinking and problem-solving skills, and I continue to develop professionally through ongoing learning in data science and programming.
 </p>
 
 <p align="justify"> I hope you enjoy taking a brief look in my profile. Welcome!</p>
